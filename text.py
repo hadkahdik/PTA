@@ -1,1 +1,2 @@
-print("yangdailn")1
+print("no")
+print("yes")
